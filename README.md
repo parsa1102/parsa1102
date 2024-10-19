@@ -1,5 +1,5 @@
 # 💫 About Me:
-C++ Software Engineer with expertise in Data Structures, Algorithms, and software development from server-side data management to client-side visualization. Proven experience in designing and implementing plugins, network systems, and simulators, with a focus on creating scalable, high-performance solutions. Currently working on GIS 3D engine projects, skilled in problem-solving, and guiding deployments on both Windows and Linux environments. Passionate about clean, efficient code and.
+C++ Software Engineer with expertise in Data Structures, Algorithms, and software development from server-side data management to client-side visualization. Proven experience in designing and implementing plugins, network systems, and simulators, with a focus on creating scalable, high-performance solutions. Currently working on GIS 3D engine projects, skilled in problem-solving, and guiding deployments on both Windows and Linux environments. Passionate about clean, efficient code.
 
 
 ## 🌐 Socials:
